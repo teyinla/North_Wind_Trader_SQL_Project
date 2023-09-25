@@ -9,7 +9,7 @@ WHERE city = 'Seattle';
 
 
 /*Question 2
-List the details of all the shippers been used by the company.*/
+List the details of all the shippers used by the company.*/
 
 SELECT * 
 FROM shippers
