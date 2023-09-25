@@ -9,7 +9,7 @@ I have been employed as a Data Analyst to help the company answer some key quest
 CASE QUESTIONS
 <ol>
 <li>	The UK sales team are visiting the Seattle office. Write a SQL statement to display the lastname, firstname, title, country and city of the employees you would now expect to be in Seattle.</li>
-<li>	List the details of all the shippers been used by the company.</li>
+<li>	List the details of all the shippers used by the company.</li>
 <li>	List the names and prices of the ten cheapest products.</li>
 <li>	List out the countries of Northwind Trader’s suppliers are based.</li>
 <li>	Get the total value of those units, for each supplier.</li>
