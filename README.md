@@ -15,5 +15,12 @@ CASE QUESTIONS
 <li>	Get the total value of those units, for each supplier.</li>
 <li>	Write a SQL query to display the product name and unit price of the top 3 most expensive products.</li>
 <li>	Write a query that displays the full name (i.e. include the title of courtesy, last name and first name), title and hire date of the employee(s) in the employees table with the job title Sales </li>
+<li>	The company wants to determine the top 5 ordered products from start of business. Write a SQL statement to display the product name and the product quantity (Use productquantity as the column alias).</li>
+<li>	The company wants to determine the bottom 5 ordered products from start of business. Write a SQL statement to display the product name and the product quantity (Use productquantity as the column alias).</li>
+<li>	How many employees where hired between August 14 1992 and August 4 1993? </li>
+<li>	Write a query to display the productid and productname for each product from the products table with name containing spread. </li>
+<li>	What is the total revenue generated based on product ordered between 14/02/1997 and 25/12/1997? </li>
+<li>	How many of the products sold are Beverages? 14.What is the count of products that are Confections? </li>
+
 
 </ol>
