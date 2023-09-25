@@ -20,7 +20,8 @@ CASE QUESTIONS
 <li>	How many employees where hired between August 14 1992 and August 4 1993? </li>
 <li>	Write a query to display the productid and productname for each product from the products table with name containing spread. </li>
 <li>	What is the total revenue generated based on product ordered between 14/02/1997 and 25/12/1997? </li>
-<li>	How many of the products sold are Beverages? 14.What is the count of products that are Confections? </li>
+<li>	How many of the products sold are Beverages? 
+<li>  What is the count of products that are Confections? </li>
 
 
 </ol>
